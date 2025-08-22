@@ -349,9 +349,7 @@ Tudo isso só é possível graças às doações e ao apoio de pessoas que acred
                     
                   </p>
                   <p>
-                    Sua contribuição, por menor que seja, faz a diferença entre a vida e a morte para esses animais. 
-                    Cada doação representa esperança, tratamento médico, uma refeição nutritiva e a chance de um 
-                    recomeço digno.
+                    Cada doação, por menor que seja, significa esperança, cuidado e a chance de um novo começo.
                   </p>
                   <div className="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-600 mt-6">
                     <p className="text-blue-900 font-medium">
