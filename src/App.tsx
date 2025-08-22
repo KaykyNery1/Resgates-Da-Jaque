@@ -347,9 +347,7 @@ Tudo isso só é possível graças às doações e ao apoio de pessoas que acred
                     desnutridos e traumatizados, precisando de cuidados médicos urgentes, alimentação adequada e muito amor.
                   </p>
                   <p>
-                    Atualmente abrigamos <strong className="text-blue-600">160 animais</strong> que dependem inteiramente 
-                    da nossa dedicação e das doações de pessoas como você. Nossos gastos mensais ultrapassam 
-                    <strong className="text-blue-600"> R$ 16.000</strong> apenas com necessidades básicas.
+                    Cada animal resgatado carrega uma história de dor e abandono. Hoje, mais de 160 animais dependem inteiramente dos nossos cuidados, com gastos mensais que ultrapassam R$16.000. Sua doação garante tratamento médico, alimentação adequada e a chance de um recomeço digno. Com a sua ajuda, podemos transformar sofrimento em esperança.
                   </p>
                   <p>
                     Sua contribuição, por menor que seja, faz a diferença entre a vida e a morte para esses animais. 
