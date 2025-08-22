@@ -343,7 +343,7 @@ Tudo isso só é possível graças às doações e ao apoio de pessoas que acred
                 <h3 className="text-2xl font-bold text-gray-900 mb-6">Por que sua ajuda é essencial?</h3>
                 <div className="space-y-4 text-gray-700 leading-relaxed">
                   <p>
-                    Mais de <strong className="text-blue-600">160 animais</strong> dependem totalmente dos nossos cuidados, com gastos mensais acima de <strong className="text-blue-600"> R$16.000</strong>. Sua doação garante tratamento, alimento e a chance de um recomeço digno. Com sua ajuda, transformamos sofrimento em esperança.
+                    Mais de <strong className="text-blue-600">160 animais</strong> dependem totalmente dos nossos cuidados, com gastos mensais acima de <strong className="text-blue-600"> R$16.000</strong>. Sua doação garante tratamento, alimento e a chance de um recomeço digno. Com sua ajuda, transformamos sofrimento em <strong className="text-green-600">esperança</strong>.
                   </p>
                   <p>
                     
