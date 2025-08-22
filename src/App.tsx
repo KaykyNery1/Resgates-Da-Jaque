@@ -338,12 +338,30 @@ Tudo isso só é possível graças às doações e ao apoio de pessoas que acred
               </div>
             </div>
             
-            <div className="">
-              <div className="">
-                <p className="">
-                 
-                  
-                </p>
+            <div className="fade-on-scroll">
+              <div className="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
+                <h3 className="text-2xl font-bold text-gray-900 mb-6">Por que sua ajuda é essencial?</h3>
+                <div className="space-y-4 text-gray-700 leading-relaxed">
+                  <p>
+                    Cada animal que resgatamos tem uma história de abandono e sofrimento. Eles chegam até nós feridos, 
+                    desnutridos e traumatizados, precisando de cuidados médicos urgentes, alimentação adequada e muito amor.
+                  </p>
+                  <p>
+                    Atualmente abrigamos <strong className="text-blue-600">160 animais</strong> que dependem inteiramente 
+                    da nossa dedicação e das doações de pessoas como você. Nossos gastos mensais ultrapassam 
+                    <strong className="text-blue-600"> R$ 16.000</strong> apenas com necessidades básicas.
+                  </p>
+                  <p>
+                    Sua contribuição, por menor que seja, faz a diferença entre a vida e a morte para esses animais. 
+                    Cada doação representa esperança, tratamento médico, uma refeição nutritiva e a chance de um 
+                    recomeço digno.
+                  </p>
+                  <div className="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-600 mt-6">
+                    <p className="text-blue-900 font-medium">
+                      "Não podemos salvar todos os animais do mundo, mas podemos mudar o mundo para cada animal que salvamos."
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
