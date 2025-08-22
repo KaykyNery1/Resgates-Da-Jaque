@@ -343,7 +343,7 @@ Tudo isso só é possível graças às doações e ao apoio de pessoas que acred
                 <h3 className="text-2xl font-bold text-gray-900 mb-6">Por que sua ajuda é essencial?</h3>
                 <div className="space-y-4 text-gray-700 leading-relaxed">
                   <p>
-                    Cada animal resgatado carrega uma história de dor e abandono. Hoje, mais de 160 animais dependem inteiramente dos nossos cuidados, com gastos mensais que ultrapassam R$16.000. Sua doação garante tratamento médico, alimentação adequada e a chance de um recomeço digno. Com a sua ajuda, podemos transformar sofrimento em esperança.
+                    Mais de 160 animais dependem totalmente dos nossos cuidados, com gastos mensais acima de R$16.000. Sua doação garante tratamento, alimento e a chance de um recomeço digno. Com sua ajuda, transformamos sofrimento em esperança.
                   </p>
                   <p>
                     
